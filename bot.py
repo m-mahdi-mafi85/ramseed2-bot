@@ -22,7 +22,7 @@ from telegram.ext import (
 
 # ---------------- CONFIG ----------------
 
-TOKEN = "8747795870:AAEpTEuNHLjmjCLJam_Gng-cDT6s_hswpgI"
+TOKEN = "8761278126:AAGQIVOZxootZuJnbbzxQjnzXZduL_SFe_0"
 
 # آیدی عددی ادمین‌ها (مثلا [123456789, 987654321])
 ADMIN_IDS = [8553725254]
